@@ -1,14 +1,14 @@
 {
-  "name": "strapi-provider-upload-minio-ce",
-  "version": "1.2.0",
-  "description": "minio provider for strapi ce 3.6.x and 4.x, private bucket supported(4.x only)",
+  "name": "strapi-provider-upload-minio-v3",
+  "version": "1.3.0",
+  "description": "minio provider for strapi ce 3.6.x",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flyce/strapi-provider-upload-minio-ce.git"
+    "url": "git+https://github.com/flyce/strapi-provider-upload-minio-v3.git"
   },
   "keywords": [
     "minio",
@@ -17,11 +17,11 @@
   "author": "Echo Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flyce/strapi-provider-upload-minio-ce/issues"
+    "url": "https://github.com/flyce/strapi-provider-upload-minio-v3/issues"
   },
-  "homepage": "https://github.com/flyce/strapi-provider-upload-minio-ce#readme",
+  "homepage": "https://github.com/flyce/strapi-provider-upload-minio-v3#readme",
   "dependencies": {
     "mime-types": "2.1.35",
-    "minio": "7.1.1"
+    "minio": "7.1.0"
   }
 }
